@@ -17,8 +17,8 @@ CI/CD 파이프라인 아키텍처와 흐름은 다음과 같습니다.
 <br>
 
 <h3 align=center>deploy-{position}-{statics}</h3>
-<h4 align=center>position : app, frontend, backend, fullstack<h4>
-<h4 align=center>statics  : default, emergency<h4>
+<h4 align=center>position : app, frontend, backend, fullstack</h4>
+<h4 align=center>statics  : default, emergency</h4>
 
 <br>
 
